@@ -12,3 +12,5 @@ bld/
 [Oo]bj/
 [Ll]og/
 
+# Lock
+project.lock.json

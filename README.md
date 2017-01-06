@@ -9,4 +9,6 @@ What we do is to check that every *int* variable is initialized, including the o
 
 **You can read an article on the example on [Getting started Roslyn](http://tomassetti.me/getting-started-roslyn/)**
 
-This code is licensed under the [MIT License](LICENSE.md). Thanks to [Nik Sultana](https://github.com/niksu) for having pointed out the lack of a license. 
+This code is licensed under the [MIT License](LICENSE.md). Thanks to [Nik Sultana](https://github.com/niksu) for having pointed out the lack of a license.
+
+**There is also a [Getting Started Rosylin version ported to F# by Nik Sultana](https://github.com/niksu/getting_started_roslyn_fsharp)**
